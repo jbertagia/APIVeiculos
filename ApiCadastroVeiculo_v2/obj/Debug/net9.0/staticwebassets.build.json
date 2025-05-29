@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l5BHB+uZXKAiXxd3+KaTH1aaRWqCwvYOguZFes+8zqQ=",
+  "Source": "ApiCadastrarVeiculo",
+  "BasePath": "_content/ApiCadastrarVeiculo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
